@@ -4,3 +4,7 @@ h1, h2, h3, h4, h5, h6 {
 p, div, ul, ol, span, strong {
   font-family: 'Cutive Mono', monospace;
 }
+
+iframe {
+  width: 100%;
+}
