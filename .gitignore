@@ -1,1 +1,6 @@
 .DS_Store
+
+# Original full-resolution video masters (ProRes / camera exports).
+# These are huge and exceed GitHub's 100 MB limit — the web-compressed
+# versions live in video/*.mp4 and are committed. Keep the masters local.
+video/source/
